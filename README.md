@@ -6,7 +6,7 @@
 
 На данный момент поддерживаются следующие возможности языка `MiniJava`:
 
-`if`-Statement, `while`-Statement, `System.out.println(...)`, `new`-оператор, `{ Statement }`, `(Expression)`, `int`-type, `bool`-type, `integer arrays`, Целочисленные литералы, булевские литералы, вызов метода класса, `Classes`, `Object methods`, `formal method parameters`, 
+`if`-Statement, `while`-Statement, `System.out.println(...)`, `new`-оператор, `{ Statement }`, `(Expression)`, `int`-type, `bool`-type, Целочисленные литералы, булевские литералы, вызов метода класса, `Classes`, `Object methods`, `formal method parameters`, 
 
 Компилятор состоит из трёх частей: Лексический анализатор (Lexer), Синтаксический анализатор (Parser), кодогенератора (CodeGenerator),
 каждая из которых является одним из трёх этапов компиляции:
