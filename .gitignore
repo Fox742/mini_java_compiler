@@ -1,4 +1,4 @@
-MiniJavaCompiler\MiniJavaCompiler\bin
-MiniJavaCompiler\MiniJavaCompiler\bin\*
-MiniJavaCompiler\MiniJavaCompiler\obj
-MiniJavaCompiler\MiniJavaCompiler\obj\*
+MiniJavaCompiler/MiniJavaCompiler/bin/
+MiniJavaCompiler/MiniJavaCompiler/bin/**
+MiniJavaCompiler/MiniJavaCompiler/obj
+MiniJavaCompiler/MiniJavaCompiler/obj/**
